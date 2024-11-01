@@ -1,3 +1,5 @@
+# 🎫 Coding Services SEND DM 🎫
+
 # VPS Setup Automation Script 🚀
 
 This Python script automates the setup and configuration of a VPS for web services. It uses `paramiko` for SSH connection, `colorama` for terminal customization, and `pyfiglet` for text banner rendering. It enables the installation of Apache, PHP, Certbot, and the option to upload a `.zip` file to configure a website.
